@@ -28,7 +28,7 @@ jobs:
           - id: x86_64-unknown-linux-gnu
             name: amd64-linux
             native: true
-            os: ubuntu-latest
+            os: ubuntu-20.04
           - id: x86_64-pc-windows-msvc
             name: amd64-windows
             native: true
